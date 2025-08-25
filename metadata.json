@@ -1,0 +1,5 @@
+{
+  "name": "Ghibli Art Generator",
+  "description": "An application that uses Google's Imagen model to generate beautiful art in the style of Studio Ghibli from a text prompt.",
+  "requestFramePermissions": []
+}
